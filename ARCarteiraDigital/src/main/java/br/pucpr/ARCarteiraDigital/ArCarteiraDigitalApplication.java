@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ArCarteiraDigitalApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ArCarteiraDigitalApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(ArCarteiraDigitalApplication.class, args);
+    }
 }
